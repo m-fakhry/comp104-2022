@@ -12,6 +12,4 @@ Grades | 90 (final), 60 (midterm + exam + lab)
 Book | Programming with C++, John R. Hubbard, Schaum’s outline series, 2000.
 Book | Fundamentals of Programming C++, Richard L. Halterman, 2016.
 Book | Object-Oriented Programming in C++, Fourth Edition, Robert Lafore, 2002.
-Objective | Design and Implement compilers
-Skills | programming languages, machine architecture, language theory, algorithms, and software engineering.
-Tool |  ANTLR https://www.antlr.org/
+Objective | Learn how to program
