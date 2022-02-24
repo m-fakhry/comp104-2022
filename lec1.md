@@ -35,7 +35,6 @@ We discussed
 - We then started to add additional commands to make the program valid
 <section>
   <pre><code data-trim data-noescape>
-    #include < iostream >
     int  main( ) {
         …;
         …;
