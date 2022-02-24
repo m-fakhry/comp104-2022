@@ -25,7 +25,6 @@ We discussed
 - We started with the very basic (incomplete) form of a C++ program
 <section>
   <pre><code data-trim data-noescape>
-    #include < iostream >
     int  main( ) {
         …;
         …;
@@ -36,6 +35,7 @@ We discussed
 - We then started to add additional commands to make the program valid
 <section>
   <pre><code data-trim data-noescape>
+    #include < iostream >
     int  main( ) {
         …;
         …;
