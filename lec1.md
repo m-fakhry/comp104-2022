@@ -13,28 +13,62 @@
 - Type Conversion
 - Increment/Decrement Operators
 - I/O Operators
-- Excercise: Calculate the area and circumference of a circle for a given radius r.
--
+- Exercise: Calculate the area and circumference of a circle for a given radius r.
 
+---
 
-<!-- int  main( )
-{
-    ….;
-    ….;
-    return 0;
-} -->
+We discussed
+- What a programming language is
 
-<!-- #include<iostream>
-using namespace std;
-#define pi 3.14
-int main( ){
-float r, area, circum;
-cout<<"Enter raduis value =";
-cin>>r;
-area    = pi*r*r;
-circum  = 2*pi*r;
-cout<<"         area = "<< area << endl;
-cout<<"circumference = "<<circum ;
-system("pause");
-return 0;
-} -->
+- What a computer program is
+
+- We started with the very basic (incomplete) form of a C++ program
+<section>
+  <pre><code data-trim data-noescape>
+    #include < iostream >
+    int  main( ) {
+        …;
+        …;
+    }
+  </code></pre>
+</section>
+
+- We then started to add additional commands to make the program valid
+<section>
+  <pre><code data-trim data-noescape>
+    int  main( ) {
+        …;
+        …;
+        return 0;
+    }
+  </code></pre>
+</section>
+
+- We explained what a library is, and give an example of `iostream` library.
+<section>
+  <pre><code data-trim data-noescape>
+    #include < iostream >
+    int  main( ) {
+        …;
+        …;
+        return 0;
+    }
+  </code></pre>
+</section>
+
+- We explained the `cout` statement
+<section>
+  <pre><code data-trim data-noescape>
+    #include < iostream >
+    int  main( ) {
+        cout<<10+20;
+        return 0;
+    }
+  </code></pre>
+</section>
+
+- and gave two forms of `cout` to print either a string or expression. So, the difference between `cout<<"10+20=";`  and `   cout<<10+20;`
+
+- then, how to merge multiple `cout` statements in one statement. For example, `cout<<"10+20="<<10+20;`
+
+- finally, the delimiter `\n`.
