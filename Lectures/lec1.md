@@ -12,7 +12,7 @@
 - Assignment Operator
 - Type Conversion
 - Increment/Decrement Operators
-- I/O Operators
+- I/O Operators (Section 1.3)
 - Exercise: Calculate the area and circumference of a circle for a given radius r.
 
 ---
