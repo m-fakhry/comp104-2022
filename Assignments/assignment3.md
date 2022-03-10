@@ -37,10 +37,7 @@
         d = 3*b*a+(3*b*a >= b*b || 4*a>3*b) - 2*b-10*(b < 8*a);
         d = 3*b+( 9*a > b*b || a >= b*b && 4*a<3*b) - 6*b-10*(b < 8*a);
 
-4. Write a C++-Program that computes the following: (for some given x):
-        if $x>3$ then prints $x\ cos(x)$
-        if $2<x<=3$ then prints $sqrt(x) sin(x^2)$
-        if $x<=3$ then prints $x+2$
+4. Write a C++-Program that computes f(x) for some given x: ![function](image_assign3.png)
 
 5. Write a C++ program that requests four integer values from the user. It then prints the maximum and minimum values entered. If the user enters the values 3, 2, 5, and 0, the program would indicate that 5 is the maximum and 0 is the minimum.
 
