@@ -7,6 +7,7 @@
 - Constants (Section 1.8)
 - Arithmetic Operations (Section 2.6-2.8)
   - division and modulus (remainder)
+  - precedence 
   - **composite operators (+=)**
   - **increment/decrement**
 - Assignment Operator

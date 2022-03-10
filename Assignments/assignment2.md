@@ -42,7 +42,7 @@
 
       - For each line listed in the comments, indicate whether or not a compile-time, run-time, or logic error is present. Not all lines contain an error.
 
-3. What are these escape characters do?
+3. What are these escape characters do? Write a program to print out statements and try these escape characters to see their effects.
     - Escape characters (\n, \t, \v, \b, \a)
 
 4. Write a C++ program that receives two **integer** values from the user. The program then should print the sum (addition), difference (subtraction), product (multiplication), quotient (division), and remainder after division (modulus). Your program must use only integers.
