@@ -29,9 +29,17 @@
         - (e) i is 7, j is 3, and k is 5
         - (f) i is 7, j is 5, and k is 3
 
-3. Write a C++ program that requests four integer values from the user. It then prints the maximum and minimum values entered. If the user enters the values 3, 2, 5, and 0, the program would indicate that 5 is the maximum and 0 is the minimum.
+3. Calculate the following expression:
 
-4. Write a C++ program that displays a menu to the user with multiple options: (1) Spicy Crispy Chicken Sandwich, (2) Big Mac, and (3) Chicken McNuggets. The user has to choose only one of these three options. Based on the chosen option the program displays the price of the meal. If the user chooses an invalid option, the program displays an error message.
+        int a =3, b=5, c=8, d;
+        d = 2*a+(3*a*a >= b*b) - 6*b-10*(b*b < 8*a);
+        d = 3*b+(3*a*a >= b*b && 4*a>3*b) - 6*b-10*(b < 8*a);
+        d = 3*b*a+(3*b*a >= b*b || 4*a>3*b) - 2*b-10*(b < 8*a);
+        d = 3*b+( 9*a > b*b || a >= b*b && 4*a<3*b) - 6*b-10*(b < 8*a);
+
+4. Write a C++ program that requests four integer values from the user. It then prints the maximum and minimum values entered. If the user enters the values 3, 2, 5, and 0, the program would indicate that 5 is the maximum and 0 is the minimum.
+
+5. Write a C++ program that displays a menu to the user with multiple options: (1) Spicy Crispy Chicken Sandwich, (2) Big Mac, and (3) Chicken McNuggets. The user has to choose only one of these three options. Based on the chosen option the program displays the price of the meal. If the user chooses an invalid option, the program displays an error message.
 The program should run as follows:
     <span style="background-color:green">
     <section><pre><code data-trim data-noescape>
@@ -46,4 +54,4 @@ The program should run as follows:
     </pre></code></section>
     </span>
 
-    Hint: define these options as **enum** type. 
+    Hint: define these options as **enum** type.
