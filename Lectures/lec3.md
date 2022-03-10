@@ -1,6 +1,15 @@
 # Lecture 3
 
 ## Agenda
+- Assignment Operator
+
+- Comment
+
+- Identifier
+  - no start with digit
+  - no special character
+  - etc.
+
 - Data types
   - enum
   - enum with overridden values
@@ -8,19 +17,14 @@
   - type casting
   - bool (false, true)
 
-- Identifier
-  - no start with digit
-  - no special character
-  - etc.
-
 - Arithmetic Operations
   - division and modulus (remainder)
   - **composite operators (+=)**
   - **increment/decrement**
 
-- Assignment Operator
-- Comment
-
+- math.h
+  - sin, cos, exp, pow, sqrt, etc.
+  
 - If statement
   - Comparison operators: >, <, >=, <=, ==, !=
   - if
