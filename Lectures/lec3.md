@@ -15,22 +15,22 @@
   - enum with overridden values
   - char
   - type casting
-  - bool (false, true)
+  - **bool (false, true)**
 
 - Arithmetic Operations
   - division and modulus (remainder)
-  - **composite operators (+=)**
-  - **increment/decrement**
+  - composite operators (+=)
+  - increment/decrement
 
 - math.h
   - sin, cos, exp, pow, sqrt, etc.
-  
+
 - If statement
   - Comparison operators: >, <, >=, <=, ==, !=
   - if
   - if else
-  - nested if
-- Compound conditions: &&, ||, !
+  - **nested if**
+- **Compound conditions: &&, ||, !**
   - short-circuting
 
 ---
