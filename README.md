@@ -21,3 +21,4 @@ Topic | Contents | Lecture | Assignment
 Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
 Types and Variables | datatypes, variables, constants, cin, priority of arithmetic operations, assignment operator | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
 Conditional Statement | identifier, data types, operators, if statement | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
+No lecture | |  | [Assignment 4](Assignments/assignment4.md)
