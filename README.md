@@ -23,3 +23,4 @@ Types and Variables | datatypes, variables, constants, cin, priority of arithmet
 Conditional Statement | identifier, data types, operators, if statement | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
 No lecture | |  | [Assignment 4](Assignments/assignment4.md)
 Conditional Statement | nested if, compound operators, precedence, switch-case statement| [Lecture 4](Lectures/lec4.md) | [Assignment 5](Assignments/assignment5.md)
+Iterative Statement | review switch, for loop, break| [Lecture 5](Lectures/lec5.md) | [Assignment 6](Assignments/assignment6.md)
